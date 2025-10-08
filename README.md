@@ -90,7 +90,7 @@ He publicado artículos y capítulos sobre:
 ## 📫 Contacto
 
 - 📧 **Email:** [xared2404@gmail.com](mailto:xared2404@gmail.com)  
-- 💼 **LinkedIn:** *(agregar tu perfil si lo deseas)*  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jared-guerra-17a7561b4/
 - 🐙 **GitHub:** [@xared2404](https://github.com/xared2404)  
 
 ---
