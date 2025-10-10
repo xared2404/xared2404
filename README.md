@@ -91,7 +91,7 @@ I have published articles and book chapters on:
 ## 📫 Contact
 
 - 📧 **Email:** [xared2404@gmail.com](mailto:xared2404@gmail.com)  
-- 💼 **LinkedIn:** *(add your profile if desired)*  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/jared-guerra-17a7561b4/]  
 - 🐙 **GitHub:** [@xared2404](https://github.com/xared2404)  
 
 ---
